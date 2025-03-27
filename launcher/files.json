@@ -1,0 +1,22 @@
+﻿{
+    "files": [        {
+            "name": "3DXChat_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+            "size": 485376,
+            "hash": "9A18E6FC4567F88709A8FB6259BB0841"
+        },
+		{
+            "name": "exclusionList.txt",
+            "size": 1817,
+            "hash": "8A673CC8DCCC0F911BCAAB0EEB6E658D"
+        },
+        {
+            "name": "3DXChat_Data\\Managed\\Assembly-UnityScript-firstpass.dll",
+            "size": 53760,
+            "hash": "587E53252AE39B0A7F2F9EF4EB272A3C"
+        },
+		{
+            "name": "3DXChat_Data\\Managed\\Assembly-UnityScript.dll",
+            "size": 3240448,
+            "hash": "40854E7E5166AAE25BEE75527114A820"
+        }    ]
+}
